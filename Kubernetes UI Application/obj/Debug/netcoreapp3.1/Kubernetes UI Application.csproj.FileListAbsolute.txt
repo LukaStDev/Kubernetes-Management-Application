@@ -1,0 +1,109 @@
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.csproj.AssemblyReference.cache
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.csproj.GenerateResource.cache
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.AssemblyInfoInputs.cache
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.AssemblyInfo.cs
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.csproj.CoreCompileInputs.cache
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Kubernetes UI Application.exe
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Kubernetes UI Application.deps.json
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Kubernetes UI Application.runtimeconfig.json
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Kubernetes UI Application.runtimeconfig.dev.json
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Kubernetes UI Application.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Kubernetes UI Application.pdb
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Fractions.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\IdentityModel.OidcClient.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\KubernetesClient.Basic.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\KubernetesClient.Models.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Prometheus.NetCore.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Prometheus.NetStandard.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\System.IO.Abstractions.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.csproj.CopyComplete
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.dll
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.pdb
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.genruntimeconfig.cache
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.Properties.Resources.resources
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.MainScreen.resources
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.DisplayNamespaces.resources
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.CreateNamespace.resources
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.DisplayNodes.resources
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.DisplayPods.resources
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.CreatePod.resources
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.DisplayServices.resources
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.CreateService.resources
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.CreateDeployment.resources
+C:\Portugal_Faks\TECH_LAB\WinFormsAppTest\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.DisplayDeployments.resources
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Kubernetes UI Application.exe
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Kubernetes UI Application.deps.json
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Kubernetes UI Application.runtimeconfig.json
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Kubernetes UI Application.runtimeconfig.dev.json
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Kubernetes UI Application.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Kubernetes UI Application.pdb
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Fractions.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\IdentityModel.OidcClient.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\KubernetesClient.Basic.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\KubernetesClient.Models.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Prometheus.NetCore.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\Prometheus.NetStandard.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\System.IO.Abstractions.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.csproj.AssemblyReference.cache
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.CreateDeployment.resources
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.CreateNamespace.resources
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.CreatePod.resources
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.CreateService.resources
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.DisplayDeployments.resources
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.DisplayNamespaces.resources
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.DisplayNodes.resources
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.DisplayPods.resources
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.DisplayServices.resources
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.LoginForm.resources
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.MainScreen.resources
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes_UI_Application.Properties.Resources.resources
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.csproj.GenerateResource.cache
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.AssemblyInfoInputs.cache
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.AssemblyInfo.cs
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.csproj.CoreCompileInputs.cache
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.csproj.CopyComplete
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.dll
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.pdb
+C:\Portugal_Faks\TECH_LAB\Exam\KubernetesController\Kubernetes UI Application\obj\Debug\netcoreapp3.1\Kubernetes UI Application.genruntimeconfig.cache

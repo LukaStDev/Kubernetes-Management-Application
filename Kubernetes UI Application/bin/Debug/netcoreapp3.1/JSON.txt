@@ -1,0 +1,1 @@
+{ "metadata": { "name": "asdf", "namespace": "default"}, "spec": { "selector": { "app": "asdfgh"}}}
